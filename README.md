@@ -7,9 +7,7 @@
 
 ## Screenshots
 
-<img width="300" alt="android-facebook-login" src="https://cloud.githubusercontent.com/assets/1444991/26754889/09c1a22e-4851-11e7-82fd-401bd368a8a2.png">
-
-<table>
+<table border="0">
 <tr>
 <td>
 <img alt="fb-login-1" src="https://cloud.githubusercontent.com/assets/1444991/26755246/7a9008a0-4857-11e7-81bc-8fb98ff3ffb8.png">
