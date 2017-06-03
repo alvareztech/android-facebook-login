@@ -1,12 +1,12 @@
 <resources>
-  <string name="app_name">Android Facebook Login</string>
+    <string name="app_name">Android Facebook Login</string>
 
-  <string name="facebook_app_id">1065828690183627</string>
-  <string name="fb_login_protocol_scheme">fb1065828690183627</string>
+    <string name="facebook_app_id">1065828690183627</string>
+    <string name="fb_login_protocol_scheme">fb1065828690183627</string>
 
-  <string name="welcome">Bienvenido</string>
-  <string name="cancel_login">Se canceló la operación</string>
-  <string name="error_login">Ocurrió un error al ingresar</string>
-  <string name="logout">Cerrar sesión</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="cancel_login">Se canceló la operación</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="logout">Cerrar sesión</string>
 
 </resources>
