@@ -57,7 +57,7 @@ This repository includes:
 <img alt="fb-login-2" src="https://cloud.githubusercontent.com/assets/1444991/26756466/007a9f52-4871-11e7-81de-376d4d0c7d14.png">
 </td>
 <td>
-<img alt="fb-login-3" src="https://cloud.githubusercontent.com/assets/1444991/26756467/007e7906-4871-11e7-9512-622feb0dbefd.png">
+<img alt="fb-login-3" src="https://cloud.githubusercontent.com/assets/1444991/26756489/87d29c3e-4871-11e7-87fd-f31a090bc6e2.jpg">
 </td>
 </tr>
 </table>
