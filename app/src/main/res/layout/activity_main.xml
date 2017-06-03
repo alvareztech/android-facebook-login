@@ -23,10 +23,19 @@
         tools:text="Name" />
 
     <TextView
-        android:id="@+id/idTextView"
+        android:id="@+id/emailTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/nameTextView"
+        android:layout_centerHorizontal="true"
+        android:textSize="16sp"
+        tools:text="ejemplo@ejemplo.com" />
+
+    <TextView
+        android:id="@+id/idTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailTextView"
         android:layout_centerHorizontal="true"
         tools:text="Id" />
 
