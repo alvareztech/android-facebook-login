@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-### Simple version
+### Simple version (master branch)
 
 <table border="0">
 <tr>
@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-### Get Profile information version
+### Profile Information version (profile branch)
 
 <table border="0">
 <tr>
