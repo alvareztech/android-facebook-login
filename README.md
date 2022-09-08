@@ -6,12 +6,6 @@ This repository includes:
 * Profile Information version
 * Profile Information & Request Email (Graph API) version
 
-
-## Step-by-step tutorial and video
-
-1. [Configurar el SDK Facebook](https://alvarez.tech/labs/android-config-sdk-facebook)
-2. [Login con Facebook](https://alvarez.tech/labs/android-login-facebook)
-
 ## Screenshots
 
 ### Simple version (master branch)
