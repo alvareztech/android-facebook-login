@@ -8,7 +8,7 @@ This repository includes:
 
 ## Screenshots
 
-### Simple version (master branch)
+### Simple version (main branch)
 
 <table border="0">
 <tr>
